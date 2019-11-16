@@ -52,7 +52,7 @@ Sources:
 
 The Swiss auction for UMTS licenses in December 2000 is an example for a so-called "bidder meltdown". This happens when _n_ bidders are each interested in one license are bidding on _n_ licenses and the auction format allows a certain coordination among the bidder on who gets what.
 
-The auction format in this auction was a simultaneous ascending price auction, which does indeed allow a certain coordination among the bidders. Knowing that, bidders that presume they would fail against the more powerful bidders could retreating already in advance, leaving only the four most powerful bidders in the auction.
+The auction format in this auction was a simultaneous ascending price auction, which does indeed allow a certain coordination among the bidders. Knowing that, bidders that presume they would fail against the more powerful bidders were retreating already in advance, leaving only the four most powerful bidders in the auction.
 
 This is exactly what happened in the UMTS auction in Switzerland in 2000. The number of bidders shrank from initially 10 to four, and four licenses were auctioned off in total. As a consequence, each bidder only paid the (in the Swiss case way too low) reserve price, which results in a very low revenue (namely one-fiftieth of what the Swiss government had once hoped for). The efficiency is not harmed by this particular phenomenon.
 
