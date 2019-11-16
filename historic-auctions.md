@@ -26,7 +26,7 @@ Sources:
 
 ## Switzerland 2000 (March)
 
-The Swiss Wireless Local Loop (WLL) auction for licenses to use radio spectrum in March 2000 is an example of a sequential second-price auction auction\*. In total, there were three nation-wide licenses and five regional licenses per region (in 9 regions) auctioned off. To showcase the auction format's weak points, it's sufficient to look at the outcome related to the three national licenses.
+The Swiss Wireless Local Loop (WLL) auction for licenses to use radio spectrum in March 2000 is an example of a sequential second-price auction\*. In total, there were three nation-wide licenses and five regional licenses per region (in 9 regions) auctioned off. To showcase the auction format's weak points, it's sufficient to look at the outcome related to the three national licenses.
 
 The [Results](https://www.newsd.admin.ch/newsd/message/attachments/1712.pdf) show that the supposedly most valuable license (56MHz block in the 26GHz frequency band, nation-wide) had a reserve price of CHF 8.2 million, which is CHF 1.35 million higher than the reserve price of the other nation-wide licenses (28MHz block in the 3.4GHz frequency band).
 In practice, the 3.4GHz licenses were auctioned off first in this sequential auction, followed by the 26Ghz license. As the results show, the first two licenses were auctioned off at a much higher price than the supposedly most valuable 26GHz license.
