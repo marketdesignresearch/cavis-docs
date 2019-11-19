@@ -12,4 +12,4 @@ Notable dependencies (each also developed and open-sourced by us) that enable th
 
 ### Found a bug?
 
-Sorry for that. We'd like to improve the tool, so please report it as detailed and reproducible as possible on [GitHub](https://github.com/marketdesignresearch/cavis-docs/issues/new).
+Sorry for that. We'd like to improve the tool, so please report it as detailed as possible (ideally, such that we can reproduce it) on [GitHub](https://github.com/marketdesignresearch/cavis-docs/issues/new).
