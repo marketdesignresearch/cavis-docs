@@ -4,10 +4,6 @@
 
 You can directly start using CAVis with the online version we have deployed for you by clicking the link in the top-right corner.
 
-### TODO: Step by step getting started with the deployed version
-
-To be filled with screenshots, etc.
-
 ## Deploying CAVis locally
 
 The server of CAVis has some limitations, especially when many users access it in parallel, because many mechanisms include solving winner determination problems.
