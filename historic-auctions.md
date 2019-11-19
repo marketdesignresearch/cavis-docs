@@ -68,7 +68,3 @@ Sources:
   See: <https://edoc.hu-berlin.de/bitstream/handle/18452/4327/50.pdf>
 - Klemperer, Paul. "How (not) to run auctions: The European 3G telecom auctions." _European Economic Review_ 46.4-5 (2002): 829-845.\
   See <http://www.nuffield.ox.ac.uk/Economics/papers/2002/w5/runauction.pdf>
-
-## Notes --- TODO: delete once clarified
-
-These explanations may "give away" some of the story. We may want to think about having a "general FAQ" which is available to all users all the time. And a "after you've run it, debrief" which describes what you should have taken away from the experience after you've had it. This is also something for students to review later when they are going back over course materials for them to remember what it is they have done. We might want to think a little bit about how we could split things up this way, what we would want in each, and what format we want to deliver the debrief in. One thought is we might want to integrate into something like Bridge sooner rather than later, so we could deliver "debrief" material following the experience using that platform. (though of course there are lots of other ways to achieve this goal). Something to think through. --> Need to discuss this on one of the next calls with Ben!
