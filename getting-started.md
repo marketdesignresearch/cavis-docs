@@ -40,7 +40,7 @@ The easiest way to achieve this is with Docker. The main difficulty is that ther
    docker-compose up -d
    ```
 
-### Without Docker --- TODO
+### Without Docker (to be defined more detailed...)
 
 - Prerequisites: Maven, Java, Node
 - Install CPLEX
